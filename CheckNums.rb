@@ -8,7 +8,7 @@ def CheckNums(num1,num2)
   elsif num2 < num1
       return false
   else
-      return "-1"
+      return -1
   end
 end
 
